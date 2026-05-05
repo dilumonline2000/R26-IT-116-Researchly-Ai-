@@ -1,4 +1,4 @@
-"""Run every ml/training/train_*.py script sequentially.
+"""Run every ml/training/train_*.py script sequentially..
 
 Each script writes weight files to ml/models/<name>/. This script reports
 per-model success/failure and total time so you can see at a glance which
