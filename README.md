@@ -6,10 +6,10 @@ AI-Powered Research Paper Assistant & Collaboration Platform for SLIIT.
 
 | Team Member | Module |
 |---|---|
-| K D T Kariyawasam | Module 1 — Research Integrity & Compliance |
-| S P U Gunathilaka | Module 2 — Collaboration & Recommendation |
-| N V Hewamanne | Module 3 — Data Collection & Management |
-| H W S S Jayasundara | Module 4 — Performance Analytics |
+| K D T Kariyawasam | Module 1 — Research Integrity & Compliance... |
+| S P U Gunathilaka | Module 2 — Collaboration & Recommendation... |
+| N V Hewamanne | Module 3 — Data Collection & Management... |
+| H W S S Jayasundara | Module 4 — Performance Analytics... |
 
 ## Architecture
 
