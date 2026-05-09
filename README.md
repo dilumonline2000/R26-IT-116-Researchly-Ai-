@@ -4,12 +4,12 @@ AI-Powered Research Paper Assistant & Collaboration Platform for SLIIT.
 
 ## Team
 
-| Team Member | Module |
-|---|---|
-| K D T Kariyawasam | Module 1 — Research Integrity & Compliance... |
-| S P U Gunathilaka | Module 2 — Collaboration & Recommendation... |
-| N V Hewamanne | Module 3 — Data Collection & Management... |
-| H W S S Jayasundara | Module 4 — Performance Analytics... |
+| Team Member         | Module                                      |
+| ------------------- | ------------------------------------------- |
+| K D T Kariyawasam   | Module 1 — Research Integrity & Compliance. |
+| S P U Gunathilaka   | Module 2 — Collaboration & Recommendation.  |
+| N V Hewamanne       | Module 3 — Data Collection & Management.    |
+| H W S S Jayasundara | Module 4 — Performance Analytics.           |
 
 ## Architecture
 
@@ -78,7 +78,7 @@ pnpm dev:ml
 
 ## Development Phases
 
-1. **Foundation Setup** — monorepo, schemas, shell pages *(in progress)*
+1. **Foundation Setup** — monorepo, schemas, shell pages _(in progress)_
 2. **Data Collection** — scrape 15K+ papers → Supabase pgvector
 3. **ML Model Training** — 10 models (spaCy NER, SBERT, SciBERT, BART, LoRA, ARIMA/Prophet, XGBoost, GCN)
 4. **Module Development** — parallel implementation of all 4 modules
